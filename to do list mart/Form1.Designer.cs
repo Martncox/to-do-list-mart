@@ -1,5 +1,5 @@
 ﻿using System;
-
+//.idea/
 namespace to_do_list_mart
 {
     partial class TODOLIST
